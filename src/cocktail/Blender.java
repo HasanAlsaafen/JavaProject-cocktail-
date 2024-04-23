@@ -3,15 +3,16 @@ package cocktail;
 import java.util.ArrayList;
 public  class Blender 
 {
+
     private  double calories;
     private  double volume;
     private  int[] color;
 private  final double capasity = 2000;
 private  ArrayList<Ingredients> ingredients;
  
-  public void add(ArrayList<Fruits> fruit ,Milk milk,Suger suger)
+  public void add(ArrayList<Fruits> fruit ,Milk milk,Suger suger) throws BlenderFull
   {
-      
+      if(isFull()) throw new BlenderFull();
       ingredients.add(suger);
       ingredients.add(milk);
       for(int i=0;i<fruit.size();i++)
@@ -23,16 +24,17 @@ private  ArrayList<Ingredients> ingredients;
 this.calories+=milk.getCalories()+suger.getCalories();
 this .volume+=milk.getVolume();
   };
-  //eroor exeption
+
   public  void blend ()
   {
       //function for    RGP  color;
       
   }
   public  void pour(Cup cup)
+  
   {
       
-      //error exeption
+   
       if(this.volume>=cup.getCapacity())
       {
                 cup.setVolume(cup.getCapacity());
