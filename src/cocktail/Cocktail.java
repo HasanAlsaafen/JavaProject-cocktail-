@@ -20,7 +20,7 @@ f.add(bannana);
 f.add(strwpary);
 Milk milk =new Milk(x,100,"milk",100);
 Suger suger=new Suger("suger",100);
-
+  
 try{
   
     b1.add(f,milk,suger);
@@ -28,11 +28,9 @@ try{
 catch(BlenderFull b)
         {
             System.out.println(b.getMessage());
-        }
-        System.out.println("5");
-  
+        }  
+       
+     
     }
-    
-   
-    
+      
 }
