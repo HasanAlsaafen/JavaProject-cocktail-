@@ -8,21 +8,31 @@ public  class Blender
     private  double volume;
     private  int[] color;
 private  final double capasity = 2000;
-private  ArrayList<Ingredients> ingredients;
+private final  ArrayList<Ingredients> ingredients=new ArrayList<>();
  
-  public void add(ArrayList<Fruits> fruit ,Milk milk,Suger suger) throws BlenderFull
+  public void add(ArrayList<Fruits> fruit ,ArrayList<Milk> milk,Suger suger) throws BlenderFull
+          
   {
-      if(isFull()) throw new BlenderFull();
-      ingredients.add(suger);
-      ingredients.add(milk);
+      
+      this.ingredients.add(suger);
+    
+         for(int i=0;i<milk.size();i++)
+      {
+            
+          this.calories+=milk.get(i).getCalories();
+          this .volume+=milk.get(i).getVolume();
+          this.ingredients.add(milk.get(i));
+          
+      }
       for(int i=0;i<fruit.size();i++)
       {
           this.calories+=fruit.get(i).getCalories();
           this .volume+=fruit.get(i).getVolume();
-          ingredients.add(fruit.get(i));
+          this.ingredients.add(fruit.get(i));
+          
       }
-this.calories+=milk.getCalories()+suger.getCalories();
-this .volume+=milk.getVolume();
+
+if(this.volume>this.capasity) throw new BlenderFull();
   };
 
   public  void blend ()
@@ -30,7 +40,7 @@ this .volume+=milk.getVolume();
       //function for    RGP  color;
       
   }
-  public  void pour(Cup cup)
+  public  void pour(Cup cup) throws BlenderEmpty
   
   {
       
@@ -52,6 +62,7 @@ this .volume+=milk.getVolume();
           this.calories=0;
          
       }
+      if(isEmpty())throw new BlenderEmpty();
 
   }
 

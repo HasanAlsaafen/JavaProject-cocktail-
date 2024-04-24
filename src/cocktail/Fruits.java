@@ -13,6 +13,7 @@ public class Fruits extends Ingredients
     }
         public Fruits() {
        
+            
     }
 
     public int[] getColor() {
