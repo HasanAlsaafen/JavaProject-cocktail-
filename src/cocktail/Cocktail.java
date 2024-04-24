@@ -32,14 +32,12 @@ public class Cocktail {
                        int[] color1={255,165,0};
                         Fruits orange=new Fruits(color1,150,"orange",100);
                         friuts.add(orange);
-            
-                        
                         break;
                     case 2: 
                           int[] color2={0,255,0};
                         Fruits kiwi=new Fruits(color2,50,"kiwi",50);
                         friuts.add(kiwi);
-                        
+          
                         break;
                     case 3:
                         int[] color3={152, 255, 0};
@@ -70,7 +68,6 @@ public class Cocktail {
                                 int []color6={250, 253, 240};
                                 Milk evaporatedMilk=new Milk(color6,150,"evaporated milk",250);
                                 milk.add(evaporatedMilk);
-                     
                         }
                             default -> {
                                         System.out.println("Invalid choice");
@@ -89,7 +86,8 @@ public class Cocktail {
                             try{
                                 if(flag)
                              blender.add(friuts, milk, new Suger());
-                                else        blender.add(friuts, milk, null);
+                                else    blender.add(friuts, milk, null);
+                                blender.blend();
                             }
                             catch(BlenderFull bf)
                             {

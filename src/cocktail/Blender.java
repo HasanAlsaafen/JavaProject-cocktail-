@@ -37,7 +37,10 @@ if(this.volume>this.capasity) throw new BlenderFull();
 
   public  void blend ()
   {
-      //function for    RGP  color;
+      for(Ingredients s:ingredients)
+      {
+          s.getColor();
+      }
       
   }
   public  void pour(Cup cup) throws BlenderEmpty

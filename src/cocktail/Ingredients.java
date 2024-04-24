@@ -4,6 +4,15 @@ public class Ingredients
 {
  private String name;
  protected double calories;
+ private int[]color;
+
+    public int[] getColor() {
+        return color;
+    }
+
+    public void setColor(int[] color) {
+        this.color = color;
+    }
 
     public Ingredients(String name, double calories) {
         this.name = name;
