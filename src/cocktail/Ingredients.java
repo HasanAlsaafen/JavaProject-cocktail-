@@ -5,6 +5,11 @@ public class Ingredients
  private String name;
  protected double calories;
  private int[]color;
+ private double volume;
+
+    public double getVolume() {
+        return volume;
+    }
 
     public int[] getColor() {
         return color;
@@ -20,7 +25,6 @@ public class Ingredients
     }
      
             public Ingredients() {
-  //
     }
     public String getName() {
         return name;
@@ -37,8 +41,9 @@ public class Ingredients
     {
         this.calories=calories;
     }
-    public String getInfo() {
-        return "Ingredients{" + "name=" + name + ", calories=" + calories + '}';
-    }
 
+  
+    public String getInfo() {
+        return "Ingredients{" + "name=" + name + ", calories=" + calories + ", color=" + color.toString() + ", volume=" + volume + '}';
+    }
 }

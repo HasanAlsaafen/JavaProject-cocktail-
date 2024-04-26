@@ -1,26 +1,28 @@
 
 package cocktail;
+import java.awt.Color;
 import java.util.*;
-
+import javax.swing.*;
 public class Cocktail {
 
 
     public static void main(String[] args) 
     {
+        
         System.out.println("-----------------welcome to Hasan and Mohammad store for cokteil-----------------\n");
-        System.out.println("do you want to make cockteil ");
+        System.out.println("do you want me to make you  a cockteil ");
         Scanner input =new Scanner(System.in);
         System.out.println("yes        No");
         String choice1;
         choice1=input.next();
         if(choice1.equalsIgnoreCase("yes"))
         {
-            System.out.println("we offer you these types of friuts");
+            System.out.println("we offer you these choices");
             Blender blender=new Blender();
              ArrayList<Fruits>friuts=new ArrayList<>();
               ArrayList<Milk> milk=new ArrayList<>();
               boolean flag=false;
-          int choice2;
+              int choice2;
             do
             {
                   
@@ -80,12 +82,12 @@ public class Cocktail {
                         break;
                       
                     case 7:
-                        if(blender.isEmpty())System.out.println("there isn't any thing to blend");
-                        else
+                        
+                        
                         {
                             try{
                                 if(flag)
-                             blender.add(friuts, milk, new Suger());
+                             blender.add(friuts, milk, new Suger("suger",120));
                                 else    blender.add(friuts, milk, null);
                                 blender.blend();
                             }
@@ -94,6 +96,11 @@ public class Cocktail {
                                 System.out.println(bf.getMessage());
                             }
                            
+                        }
+                        if(blender.isEmpty())
+                        {
+                            System.out.println("there isn't any thing to blend");
+                            break;
                         }
                         System.out.println("choose the size of the cup\n1.250 ml\n1.330 ml\n3.500 ml");
                         int choice4;
@@ -104,8 +111,8 @@ public class Cocktail {
                                 Cup cup1=new Cup(250);
                                 try{
                                     blender.pour(cup1);
-                                    System.out.println("please pay to the casher");
-                                    System.out.println("your cup'c color is "+blender.getColor()+"\nyour cup's calories "+cup1.getCalories()+"\nyour cup's volume is"+cup1.getVolume());
+                                    int[]x=blender.getColor();                                    System.out.println("here's your pill\nthe price is 10\nplease pay to the casher");
+                                    System.out.println("your cup's color is in RGB ["+ x[0]+","+x[1]+","+x[2]+"]"+ "\nyour cup's calories "+cup1.getCalories()+"\nyour cup's volume is"+cup1.getVolume());
                                 }
                                 catch (BlenderEmpty be)
                                 {
@@ -116,8 +123,8 @@ public class Cocktail {
                                 Cup cup2=new Cup(330);
                                 try{
                                     blender.pour(cup2);
-                                       System.out.println("please pay to the casher");
-                                    System.out.println("your cup'c color is "+blender.getColor()+"\nyour cup's calories "+cup2.getCalories()+"\nyour cup's volume is"+cup2.getVolume());
+                                       System.out.println("here's your pill\nthe price is 15 \nplease pay to the casher");
+                                    System.out.println("your cup's color is "+blender.getColor().toString()+"\nyour cup's calories "+cup2.getCalories()+"\nyour cup's volume is"+cup2.getVolume());
                                 }
                                 catch (BlenderEmpty be)
                                 {
@@ -128,8 +135,8 @@ public class Cocktail {
                                           Cup cup3=new Cup(500);
                                           try{
                                               blender.pour(cup3);
-                                                 System.out.println("please pay to the casher");
-                                    System.out.println("your cup'c color is "+blender.getColor()+"\nyour cup's calories "+cup3.getCalories()+"\nyour cup's volume is"+cup3.getVolume());
+                                                 System.out.println("here's your pill\nthe price is 20 \nplease pay to the casher");
+                                    System.out.println("your cup's color is "+blender.getColor().toString()+"\nyour cup's calories "+cup3.getCalories()+"\nyour cup's volume is"+cup3.getVolume());
                                           }
                                           catch (BlenderEmpty be)
                                           {
@@ -146,10 +153,11 @@ public class Cocktail {
                 
                 
             }while(choice2!=7);
-            
+       
         }
-        else System.out.println("we are hoped to serve you in another time\n ");
+        else if(choice1.equalsIgnoreCase("no")) System.out.println("we are hoped to serve you in another time\n ");
+        else System.out.println("please enter one of these choices");
+       
     }
     
-
 }

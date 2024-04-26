@@ -1,14 +1,20 @@
 
 package cocktail;
 import java.util.ArrayList;
+
+
 public  class Blender 
 {
 
     private  double calories;
     private  double volume;
-    private  int[] color;
+    private  int[] color={0,0,0};
 private  final double capasity = 2000;
 private final  ArrayList<Ingredients> ingredients=new ArrayList<>();
+
+    public Blender() {
+        
+    }
  
   public void add(ArrayList<Fruits> fruit ,ArrayList<Milk> milk,Suger suger) throws BlenderFull
           
@@ -37,12 +43,38 @@ if(this.volume>this.capasity) throw new BlenderFull();
 
   public  void blend ()
   {
-      for(Ingredients s:ingredients)
-      {
-          s.getColor();
-      }
+int sum[]=new int[3];
+int count=0;
+     for(Ingredients d:ingredients)
+     {
+     
+         
+         if(d!=null)
+         {
+             if(d.getColor()!=null)
+             {
+             int c[]=d.getColor();
+             count++;
+          int red=c[0];
+              int green=c[1];
+              int blue=c[2];
+              
+              sum[0]+=red*d.getVolume()/this.volume;
       
+               sum[1]+=green*d.getVolume()/this.volume;
+               sum[2]+=blue*d.getVolume()/this.volume;
+             }
+         
+         }
+     }
+        if(count!=0)
+        {
+         color[0]=sum[0]/count;
+         color[1]=sum[1]/count;
+         color[2]=sum[2]/count;
+        }
   }
+ 
   public  void pour(Cup cup) throws BlenderEmpty
   
   {
@@ -54,21 +86,12 @@ if(this.volume>this.capasity) throw new BlenderFull();
             cup.setCalories((cup.getVolume()*this.calories)/this.volume);
       this.volume-=cup.getCapacity();
  
-      this.calories=((this.volume)/this.capasity)*this.calories;
+      this.calories-=cup.getCalories();
     
       }
-    
-      if(this.volume<cup.getCapacity()&&this.volume>0)
-      {
-          cup.setVolume(this.volume);
-          this.volume=0;
-          this.calories=0;
-         
-      }
-      if(isEmpty())throw new BlenderEmpty();
+      else throw new BlenderEmpty();
 
   }
-
     public double getCalories() {
         return calories;
     }
@@ -95,12 +118,6 @@ if(this.volume>this.capasity) throw new BlenderFull();
 
    
     public String getInfo() {
-        return "Blender{" + "calories=" + calories + ", volume=" + volume + ", color=" + color + ", capasity=" + capasity + ", ingredients=" + ingredients + '}';
-    }
-
-
-
- 
-    
-      
+        return "Blender{" + "calories=" + calories + ", volume=" + volume + ", color=" + color.toString() + ", capasity=" + capasity + ", ingredients=" + ingredients + '}';
+    }      
 }
