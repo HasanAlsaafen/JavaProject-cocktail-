@@ -36,13 +36,13 @@ public class Cocktail {
                         friuts.add(orange);
                         break;
                     case 2: 
-                          int[] color2={0,255,0};
+                          int[] color2={153,255,0};
                         Fruits kiwi=new Fruits(color2,50,"kiwi",50);
                         friuts.add(kiwi);
           
                         break;
                     case 3:
-                        int[] color3={152, 255, 0};
+                        int[] color3={255, 251, 0};
                         Fruits banana=new Fruits(color3,80,"banana",120);
                         friuts.add(banana);
                   
@@ -61,7 +61,7 @@ public class Cocktail {
                         switch(choice3)
                         {
                             case 1 -> {
-                                int[] color5={255, 80, 120};
+                                int[] color5={245, 255, 253};
                                 Milk milk1=new Milk(color5,150,"milk",200);
                                 milk.add(milk1);
                            
