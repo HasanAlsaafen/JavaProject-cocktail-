@@ -1,9 +1,25 @@
-
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package cocktail;
 
+/**
+ *
+ * @author حسن
+ */
+public class Suger extends Ingredients{
+       private Color color;
 
-public class Suger extends Ingredients {
-    private Color color;
+    /**
+     *
+     * @return
+     */
+    @Override
+    public Color getColor() {
+        return color;
+    }
+       
 
     @Override
     public void setColor(Color c) {
@@ -24,7 +40,4 @@ public class Suger extends Ingredients {
         return super.getCalories()+ "calories";
     }
 
-   
-  
-    
 }

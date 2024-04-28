@@ -13,7 +13,6 @@ public class Fruits extends Ingredients
     }
         public Fruits() {
        
-            
     }
 
     @Override

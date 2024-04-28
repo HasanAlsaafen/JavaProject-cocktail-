@@ -18,7 +18,9 @@ public class Main {
         {
             System.out.println("we offer you these choices");
             Blender blender=new Blender();
+            blender.setCapasity(2500);
              ArrayList<Fruits>friuts=new ArrayList<>();
+             Cocktail cocktail=new Cocktail();
               ArrayList<Milk> milk=new ArrayList<>();
               boolean flag=false;
               int choice2;
@@ -35,19 +37,19 @@ public class Main {
                         friuts.add(orange);
                         break;
                     case 2: 
-                          int[] color2={0,255,0};
+                         Color color2=new Color(0,255,0);
                         Fruits kiwi=new Fruits(color2,50,"kiwi",50);
                         friuts.add(kiwi);
           
                         break;
                     case 3:
-                        int[] color3={152, 255, 0};
+                        Color color3=new Color(152, 255, 0);
                         Fruits banana=new Fruits(color3,80,"banana",120);
                         friuts.add(banana);
                   
                         break;
                     case 4:
-                        int[] color4={255, 80, 120};
+                        Color color4=new Color(255, 80, 120);
                         Fruits strawbarry=new Fruits(color4,30,"strwabarry",20);
                         friuts.add(strawbarry);
                   
@@ -60,13 +62,13 @@ public class Main {
                         switch(choice3)
                         {
                             case 1 -> {
-                                int[] color5={255, 80, 120};
+                                Color color5=new Color(255, 80, 120);
                                 Milk milk1=new Milk(color5,150,"milk",200);
                                 milk.add(milk1);
                            
                         }
                             case 2 -> { 
-                                int []color6={250, 253, 240};
+                                Color color6=new Color(250, 253, 240);
                                 Milk evaporatedMilk=new Milk(color6,150,"evaporated milk",250);
                                 milk.add(evaporatedMilk);
                         }
@@ -87,8 +89,11 @@ public class Main {
                             try{
                                 if(flag)
                              blender.add(friuts, milk, new Suger("suger",120));
-                                else    blender.add(friuts, milk, null);
+                                else blender.add(friuts, milk, null);
                                 blender.blend();
+                                cocktail.setIngredient(blender.getIngredients());
+                                cocktail.setColor(blender.getColor());
+                                cocktail.setCalories(blender.getCalories());
                             }
                             catch(BlenderOverFlowExecption bf)
                             {
@@ -110,8 +115,8 @@ public class Main {
                                 Cup cup1=new Cup(250);
                                 try{
                                     blender.pour(cup1);
-                                    int[]x=blender.getColor();                                    System.out.println("here's your pill\nthe price is 10\nplease pay to the casher");
-                                    System.out.println("your cup's color is in RGB ["+ x[0]+","+x[1]+","+x[2]+"]"+ "\nyour cup's calories "+cup1.getCalories()+"\nyour cup's volume is"+cup1.getVolume());
+                                    Color x=blender.getColor();                                    System.out.println("here's your pill\nthe price is 10\nplease pay to the casher");
+                                    System.out.println("your cup's color is in RGB "+x.toString()+ "\nyour cup's calories "+cup1.getCalories()+"\nyour cup's volume is"+cup1.getCapacity());
                                 }
                                 catch (BlenderEmptyExecption be)
                                 {
@@ -123,7 +128,7 @@ public class Main {
                                 try{
                                     blender.pour(cup2);
                                        System.out.println("here's your pill\nthe price is 15 \nplease pay to the casher");
-                                    System.out.println("your cup's color is "+blender.getColor().toString()+"\nyour cup's calories "+cup2.getCalories()+"\nyour cup's volume is"+cup2.getVolume());
+                                    System.out.println("your cup's color is "+blender.getColor().toString()+"\nyour cup's calories "+cup2.getCalories()+"\nyour cup's volume is"+cup2.getCapacity());
                                 }
                                 catch (BlenderEmptyExecption be)
                                 {
@@ -135,7 +140,7 @@ public class Main {
                                           try{
                                               blender.pour(cup3);
                                                  System.out.println("here's your pill\nthe price is 20 \nplease pay to the casher");
-                                    System.out.println("your cup's color is "+blender.getColor().toString()+"\nyour cup's calories "+cup3.getCalories()+"\nyour cup's volume is"+cup3.getVolume());
+                                    System.out.println("your cup's color is "+blender.getColor().toString()+"\nyour cup's calories "+cup3.getCalories()+"\nyour cup's volume is"+cup3.getCapacity());
                                           }
                                           catch (BlenderEmptyExecption be)
                                           {

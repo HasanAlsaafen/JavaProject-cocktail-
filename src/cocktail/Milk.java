@@ -1,8 +1,15 @@
-
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package cocktail;
 
-public class Milk extends Ingredients{
-      private Color color;
+/**
+ *
+ * @author حسن
+ */
+public class Milk extends  Ingredients{
+     private Color color;
     private double volume;
 
     public Milk(Color color, double volume, String name, double calories) {
@@ -41,6 +48,4 @@ public class Milk extends Ingredients{
     public String getInfo() {
         return "Milk{" + "color=" + color + ", volume=" + volume + '}';
     }
-  
-    
 }

@@ -3,13 +3,17 @@ package cocktail;
 public abstract class Ingredients
 {
  private String name;
- protected double calories;
+ private double calories;
  private Color color;
+private double volume;
 
+    public double getVolume() {
+        return volume;
+    }
 
-
-
-  
+    public void setVolume(double volume) {
+        this.volume = volume;
+    }
 
     public Color getColor() {
         return color;

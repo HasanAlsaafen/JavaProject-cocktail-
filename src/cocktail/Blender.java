@@ -1,5 +1,6 @@
 
 package cocktail;
+import java.lang.System.Logger;
 import java.util.ArrayList;
 
 
@@ -10,22 +11,36 @@ public  class Blender
     private  double volume;
     private Color color;
     private double capasity;
-    private final  ArrayList<Ingredients> ingredients;
+    private ArrayList<Ingredients> ingredients;
 
     public Blender() {
+        ingredients=new ArrayList();
+        color=new Color(0,0,0);
         
     }
 
     public Blender(double capasity ,Logger logger) {
         this.capasity = capasity;
+        ingredients=new ArrayList();
+        color=new Color(0,0,0);
     }
+
+    public void setCapasity(double capasity) {
+        this.capasity = capasity;
+    }
+    
     
  
   public void add(ArrayList<Fruits> fruit ,ArrayList<Milk> milk,Suger suger) throws BlenderOverFlowExecption
           
   {
-      
-      this.ingredients.add(suger);
+        
+      if (suger!=null)
+      {
+        
+            this.ingredients.add(suger);
+            this.calories+=suger.getCalories();
+      }
     
          for(int i=0;i<milk.size();i++)
       {
@@ -42,11 +57,11 @@ public  class Blender
           this.ingredients.add(fruit.get(i));
           
       }
+        
+
 
 if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
   };
-
- 
   public  void pour(Cup cup) throws BlenderEmptyExecption
   
   {
@@ -54,8 +69,8 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
    
       if(this.volume>=cup.getCapacity())
       {
-                cup.setVolume(cup.getCapacity());
-            cup.setCalories((cup.getVolume()*this.calories)/this.volume);
+
+            cup.setCalories((cup.getCapacity()*this.calories)/this.volume);
       this.volume-=cup.getCapacity();
  
       this.calories-=cup.getCalories();
@@ -75,6 +90,26 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
     public Color getColor() {
         return color;
     }
+    public void blend()
+    {
+        
+        for (Ingredients s:ingredients)
+        {
+            if(s.getColor()!=null)
+            {
+                if(color!=null)
+                {
+                 color.setRed((int) (color.getRed()+(s.getColor().getRed()*s.getVolume()/this.volume)));
+                 color.setBlue((int) (color.getBlue()+(s.getColor().getBlue()*s.getVolume()/this.volume)));
+                 color.setGreen((int) (color.getRed()+(s.getColor().getRed()*s.getVolume()/this.volume)));
+                }
+            }
+           
+        }
+        color.setRed(color.getRed()/ingredients.size());
+        color.setBlue(color.getBlue()/ingredients.size());
+        color.setGreen(color.getGreen()/ingredients.size());
+    }
 
     public ArrayList<Ingredients> getIngredients() {
         return ingredients;
@@ -90,6 +125,6 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
 
    
     public String getInfo() {
-        return "Blender{" + "calories=" + calories + ", volume=" + volume + ", color=" + color.toString() + ", capasity=" + capasity + ", ingredients=" + ingredients + '}';
+        return "Blender{" + "calories=" + calories + ", volume=" + volume + ", color=" + color.toString() + ", capasity=" + capasity + ", ingredients=" + ingredients.toString() + '}';
     }      
 }
