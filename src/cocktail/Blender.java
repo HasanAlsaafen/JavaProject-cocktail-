@@ -43,7 +43,6 @@ if(this.volume>this.capasity) throw new BlenderFull();
 
   public  void blend ()
   {
-<<<<<<< HEAD
 int sum[]=new int[3];
 int count=0;
      for(Ingredients d:ingredients)
@@ -74,108 +73,10 @@ int count=0;
          color[1]=sum[1]/count;
          color[2]=sum[2]/count;
         }
-=======
-      int count=0;
-      for(Ingredients s:ingredients)
-      {
-          s.getColor();
-          count++;
-      }
 
 
-      if(count==2){
-
-//code for tow color
-          /*
-          * private static Color blendColors(Color color1, Color color2, double ratio) {
-    int red = (int) (color1.getRed() * (1 - ratio) + color2.getRed() * ratio);
-    int green = (int) (color1.getGreen() * (1 - ratio) + color2.getGreen() * ratio);
-    int blue = (int) (color1.getBlue() * (1 - ratio) + color2.getBlue() * ratio);
-    return new Color(red, green, blue);
-}
-
-public static void main(String[] args) {
-
-    Color color1 = new Color(255, 0, 124); // Red
-    Color color2 = new Color(0, 255, 210); // Green
-    Color color3 = new Color(0, 0, 255); // Blue
-    Color color4 = new Color(255, 255, 0); // Yellow
-    double ratio = 0.5; // Blend ratio
-    Color blendedColor = blendColors(color1, color2, color3, color4, ratio);
 
 
-    System.out.println("Blended color: " + blendedColor);
-
-}*/
-
-      }
-      else if(count==3){
-          //code for 3 color
-/*import java.awt.Color;
-
-public class ColorMixer {
-    public static Color blendColors(Color color1, Color color2, Color color3, double ratio) {
-        Color color12 = blendColors(color1, color2, ratio);
-        return blendColors(color12, color3, ratio);
-    }
-
-    private static Color blendColors(Color color1, Color color2, double ratio) {
-        int red = (int) (color1.getRed() * (1 - ratio) + color2.getRed() * ratio);
-        int green = (int) (color1.getGreen() * (1 - ratio) + color2.getGreen() * ratio);
-        int blue = (int) (color1.getBlue() * (1 - ratio) + color2.getBlue() * ratio);
-        return new Color(red, green, blue);
-    }
-
-    public static void main(String[] args) {
-        Color color1 = new Color(255, 0, 124); // Color  Red ,you can add any color you need
-        Color color2 = new Color(0, 255, 210); // Color  Green
-        Color color3 = new Color(0, 0, 255); // color Blue
-        double ratio = 0.5; // Blend ratio
-        Color blendedColor = blendColors(color1, color2, color3, ratio);
-
-        System.out.println("Blended color: " + blendedColor);
-    }
-}
-*/
-
-      }
-      else if(count==4){
-          //code for four color
-/*
-* import java.awt.Color;
-
-public class ColorMixer {
-    public static Color blendColors(Color color1, Color color2, Color color3, Color color4, double ratio) {
-        Color color12 = blendColors(color1, color2, ratio);
-        Color color34 = blendColors(color3, color4, ratio);
-        return blendColors(color12, color34, ratio);
-    }
-
-    private static Color blendColors(Color color1, Color color2, double ratio) {
-        int red = (int) (color1.getRed() * (1 - ratio) + color2.getRed() * ratio);
-        int green = (int) (color1.getGreen() * (1 - ratio) + color2.getGreen() * ratio);
-        int blue = (int) (color1.getBlue() * (1 - ratio) + color2.getBlue() * ratio);
-        return new Color(red, green, blue);
-    }
-
-    public static void main(String[] args) {
-
-        Color color1 = new Color(255, 0, 124);
-        Color color2 = new Color(0, 255, 210);
-        Color color3 = new Color(0, 0, 255);
-        Color color4 = new Color(255, 255, 0);
-        double ratio = 0.5;
-        Color blendedColor = blendColors(color1, color2, color3, color4, ratio);
-
-
-        System.out.println("Blended color: " + blendedColor);
-
-    }
-}*/
-      }
-
-
->>>>>>> 78c04ebc072bee560dd25bc90ac970b61976ad55
   }
  
   public  void pour(Cup cup) throws BlenderEmpty
