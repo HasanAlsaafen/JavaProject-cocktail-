@@ -5,6 +5,18 @@ public class Color {
     private int green;
     private int blue;
 
+
+    public Color() {
+        this.red=0;
+        this.green=0;
+        this.blue=0;
+    }
+    public Color(int r,int g,int b){
+        this.red=r;
+        this.green=g;
+        this.blue=b;
+    }
+
     public int getBlue() {
         return blue;
     }

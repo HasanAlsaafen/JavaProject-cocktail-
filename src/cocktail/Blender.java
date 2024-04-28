@@ -8,7 +8,7 @@ public  class Blender
 
     private  double calories;
     private  double volume;
-    private  int[] color={0,0,0};
+    private Color color;
 private  final double capasity = 2000;
 private final  ArrayList<Ingredients> ingredients=new ArrayList<>();
 
@@ -41,7 +41,7 @@ private final  ArrayList<Ingredients> ingredients=new ArrayList<>();
 if(this.volume>this.capasity) throw new BlenderFull();
   };
 
-  public  void blend ()
+ /* public  void blend ()
   {
 int sum[]=new int[3];
 int count=0;
@@ -77,7 +77,7 @@ int count=0;
 
 
 
-  }
+  }*/
  
   public  void pour(Cup cup) throws BlenderEmpty
   
@@ -104,7 +104,7 @@ int count=0;
         return volume;
     }
 
-    public int[] getColor() {
+    public Color getColor() {
         return color;
     }
 
