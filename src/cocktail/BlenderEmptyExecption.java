@@ -2,7 +2,7 @@
 package cocktail;
 
 
-public class BlenderEmpty extends Exception
+public class BlenderEmptyExecption extends Exception
 {
     @Override
     public String getMessage() {

@@ -1,21 +1,21 @@
 package cocktail;
 
-public class Ingredients
+public abstract class Ingredients
 {
  private String name;
  protected double calories;
- private int[]color;
- private double volume;
+ private Color color;
 
-    public double getVolume() {
-        return volume;
-    }
 
-    public int[] getColor() {
+
+
+  
+
+    public Color getColor() {
         return color;
     }
 
-    public void setColor(int[] color) {
+    public void setColor(Color color) {
         this.color = color;
     }
 
@@ -44,6 +44,6 @@ public class Ingredients
 
   
     public String getInfo() {
-        return "Ingredients{" + "name=" + name + ", calories=" + calories + ", color=" + color.toString() + ", volume=" + volume + '}';
+        return "Ingredients{" + "name=" + name + ", calories=" + calories + ", color=" + color.toString() ;
     }
 }

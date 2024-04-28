@@ -2,7 +2,7 @@
 package cocktail;
 
 
-public class BlenderFull extends Exception
+public class BlenderOverFlowExecption extends Exception
 {
     @Override
     public String getMessage() {

@@ -5,7 +5,7 @@ package cocktail;
 public class Cup
 {
     private  double  capacity;
-    private double volume;
+   
     private double calories;
 
     public Cup(double capacity) {
@@ -15,15 +15,10 @@ public class Cup
 
     public Cup() {
     }
-    public double getVolume() {
-        return volume;
-    }
 
-    public void setVolume(double volume) {
-        this.volume = volume;
-    }
+ 
     public String getInfo() {
-        return "Cup{" + "capacity=" + capacity + ", volume=" + volume + ", calories=" + calories + '}';
+        return "Cup{" + "capacity=" + capacity + ", volume=" + ", calories=" + calories + '}';
     }
 
     public double getCapacity() {

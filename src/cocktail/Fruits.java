@@ -1,14 +1,12 @@
 
 package cocktail;
 
-import java.util.Arrays;
-
-public class Fruits extends Ingredients 
+public class Fruits extends Ingredients
 {
-    private int[] color;
+    private Color color;
     private double volume;
 
-    public Fruits(int[] color, double volume, String name, double calories) {
+    public Fruits(Color color, double volume, String name, double calories) {
         super(name, calories);
         this.color = color;
         this.volume = volume;
@@ -19,16 +17,16 @@ public class Fruits extends Ingredients
     }
 
     @Override
-    public int[] getColor() {
+    public Color getColor() {
         return color;
     }
 
     @Override
-    public void setColor(int[] color) {
+    public void setColor(Color color) {
         this.color = color;
     }
 
-    @Override
+ 
     public double getVolume() {
         return volume;
     }
@@ -39,7 +37,7 @@ public class Fruits extends Ingredients
 
     @Override
     public String getInfo() {
-        return "Fruits{" + "color=" + Arrays.toString(color) + ", volume=" + volume + '}';
+        return "Fruits{" + "color=" + color + ", volume=" + volume + '}';
     }
   
    

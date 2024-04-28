@@ -8,15 +8,20 @@ public  class Blender
 
     private  double calories;
     private  double volume;
-    private  int[] color={0,0,0};
-private  final double capasity = 2000;
-private final  ArrayList<Ingredients> ingredients=new ArrayList<>();
+    private Color color;
+    private double capasity;
+    private final  ArrayList<Ingredients> ingredients;
 
     public Blender() {
         
     }
+
+    public Blender(double capasity ,Logger logger) {
+        this.capasity = capasity;
+    }
+    
  
-  public void add(ArrayList<Fruits> fruit ,ArrayList<Milk> milk,Suger suger) throws BlenderFull
+  public void add(ArrayList<Fruits> fruit ,ArrayList<Milk> milk,Suger suger) throws BlenderOverFlowExecption
           
   {
       
@@ -38,46 +43,11 @@ private final  ArrayList<Ingredients> ingredients=new ArrayList<>();
           
       }
 
-if(this.volume>this.capasity) throw new BlenderFull();
+if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
   };
 
-  public  void blend ()
-  {
-
-int sum[]=new int[3];
-int count=0;
-     for(Ingredients d:ingredients)
-     {
-         
-         if(d!=null)
-         {
-             if(d.getColor()!=null)
-             {
-             int c[]=d.getColor();
-             count++;
-          int red=c[0];
-              int green=c[1];
-              int blue=c[2];
-              
-              sum[0]+=red;
-      
-               sum[1]+=green;
-               sum[2]+=blue;
-             }
-         
-         }
-     }
-        if(count!=0)
-        {
-         color[0]=sum[0]/count;
-         color[1]=sum[1]/count;
-         color[2]=sum[2]/count;
-        }
-
-  }
-  
  
-  public  void pour(Cup cup) throws BlenderEmpty
+  public  void pour(Cup cup) throws BlenderEmptyExecption
   
   {
       
@@ -91,7 +61,7 @@ int count=0;
       this.calories-=cup.getCalories();
     
       }
-      else throw new BlenderEmpty();
+      else throw new BlenderEmptyExecption();
 
   }
     public double getCalories() {
@@ -102,7 +72,7 @@ int count=0;
         return volume;
     }
 
-    public int[] getColor() {
+    public Color getColor() {
         return color;
     }
 
