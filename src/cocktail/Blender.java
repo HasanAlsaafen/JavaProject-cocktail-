@@ -31,34 +31,22 @@ public  class Blender
     
     
  
-  public void add(ArrayList<Fruits> fruit ,ArrayList<Milk> milk,Suger suger) throws BlenderOverFlowExecption
+  public void add(ArrayList<Ingredients> ingredients) throws BlenderOverFlowExecption
           
   {
         
-      if (suger!=null)
-      {
-        
-            this.ingredients.add(suger);
-            this.calories+=suger.getCalories();
-      }
+   
     
-         for(int i=0;i<milk.size();i++)
+         for(int i=0;i<ingredients.size();i++)
       {
             
-          this.calories+=milk.get(i).getCalories();
-          this .volume+=milk.get(i).getVolume();
-          this.ingredients.add(milk.get(i));
+          this.calories+=ingredients.get(i).getCalories();
+          this .volume+=ingredients.get(i).getVolume();
+          this.ingredients.add(ingredients.get(i));
           
       }
-      for(int i=0;i<fruit.size();i++)
-      {
-          this.calories+=fruit.get(i).getCalories();
-          this .volume+=fruit.get(i).getVolume();
-          this.ingredients.add(fruit.get(i));
-          
-      }
-        
-
+          this.ingredients=ingredients;
+   
 
 if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
   };
@@ -90,7 +78,7 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
     public Color getColor() {
         return color;
     }
-    public void blend()
+    public Cocktail blend()
     {
         
         for (Ingredients s:ingredients)
@@ -109,6 +97,9 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
         color.setRed(color.getRed()/ingredients.size());
         color.setBlue(color.getBlue()/ingredients.size());
         color.setGreen(color.getGreen()/ingredients.size());
+        Cocktail cocktail=new Cocktail(this.calories,this.ingredients,color);
+        return cocktail;
+     
     }
 
     public ArrayList<Ingredients> getIngredients() {

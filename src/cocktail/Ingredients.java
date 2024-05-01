@@ -2,10 +2,12 @@ package cocktail;
 
 public abstract class Ingredients
 {
+     private Color color;
+     private double volume;
  private String name;
  private double calories;
- private Color color;
-private double volume;
+
+
 
     public double getVolume() {
         return volume;
@@ -23,10 +25,16 @@ private double volume;
         this.color = color;
     }
 
-    public Ingredients(String name, double calories) {
+    public Ingredients(Color color, double volume, String name, double calories) {
+        this.color = color;
+        this.volume = volume;
         this.name = name;
         this.calories = calories;
     }
+
+
+
+
      
             public Ingredients() {
     }

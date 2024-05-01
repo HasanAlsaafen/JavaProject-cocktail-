@@ -9,35 +9,22 @@ package cocktail;
  * @author حسن
  */
 public class Suger extends Ingredients{
-       private Color color;
-
-    /**
-     *
-     * @return
-     */
-    @Override
-    public Color getColor() {
-        return color;
-    }
+ 
+   
        
 
-    @Override
-    public void setColor(Color c) {
-       this.color=new Color(248,240,235);
-    }
 
-    public Suger(String name, double calories) {
-        super(name, calories);
-    }
+   
 
     public Suger() {
     }
-//
+
+    public Suger(Color color, double volume, String name, double calories) {
+        super(color, volume, name, calories);
+    }
+
     
    
-    @Override
-    public String getInfo() {
-        return super.getCalories()+ "calories";
-    }
+ 
 
 }

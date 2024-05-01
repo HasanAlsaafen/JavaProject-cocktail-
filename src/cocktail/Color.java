@@ -4,10 +4,7 @@
  */
 package cocktail;
 
-/**
- *
- * @author حسن
- */
+
 public class Color {
        private int red;
     private int green;
