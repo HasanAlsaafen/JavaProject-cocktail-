@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) 
     {
         
+        
         System.out.println("-----------------welcome to Hasan and Mohammad store for cokteil-----------------\n");
         System.out.println("do you want me to make you  a cockteil ");
         Scanner input =new Scanner(System.in);
@@ -112,7 +113,8 @@ public class Main {
                                 Cup cup1=new Cup(250);
                                 try{
                                     blender.pour(cup1);
-                                    Color x=cocktail.getColor();                                    System.out.println("here's your pill\nthe price is 10\nplease pay to the casher");
+                                    Color x=cocktail.getColor();                                   
+                                    System.out.println("here's your pill\nthe price is 10\nplease pay to the casher");
                                     System.out.println("your cup's color is in RGB "+x.toString()+ "\nyour cup's calories "+cup1.getCalories()+"\nyour cup's volume is"+cup1.getCapacity());
                                 }
                                 catch (BlenderEmptyExecption be)
