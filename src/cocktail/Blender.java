@@ -3,7 +3,6 @@ package cocktail;
 import java.lang.System.Logger;
 import java.util.ArrayList;
 
-
 public  class Blender 
 {
 
@@ -85,12 +84,12 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
         {
             if(s.getColor()!=null)
             {
-                if(color!=null)
-                {
-                 color.setRed((int) (color.getRed()+(s.getColor().getRed()*s.getVolume()/this.volume)));
-                 color.setBlue((int) (color.getBlue()+(s.getColor().getBlue()*s.getVolume()/this.volume)));
-                 color.setGreen((int) (color.getRed()+(s.getColor().getRed()*s.getVolume()/this.volume)));
-                }
+               
+                 color.setRed((int)((color.getRed()+(s.getColor().getRed()))));
+                 color.setBlue((int)((color.getBlue()+(s.getColor().getBlue()))));
+                 color.setGreen((int)((color.getGreen()+(s.getColor().getGreen()))));
+                
+               
             }
            
         }
