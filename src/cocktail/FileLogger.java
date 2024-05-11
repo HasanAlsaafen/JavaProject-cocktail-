@@ -8,6 +8,11 @@ package cocktail;
  *
  * @author حسن
  */
-public class FileLogger {
+public class FileLogger implements Logger {
+
+    @Override
+    public void log(String something) {
+
+    }
     
 }

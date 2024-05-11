@@ -2,6 +2,6 @@
 package cocktail;
 
 
-public interface Logger {
+public interface Logger  {
     void log(String something);
 }
