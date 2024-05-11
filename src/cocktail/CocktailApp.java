@@ -349,14 +349,11 @@ Cocktail cocktail=new Cocktail();
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addComponent(jSeparator1, javax.swing.GroupLayout.Alignment.TRAILING)
             .addGroup(layout.createSequentialGroup()
+                .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 534, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(layout.createSequentialGroup()
-                        .addGap(14, 14, 14)
-                        .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(39, Short.MAX_VALUE))
+                    .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 534, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addContainerGap(47, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -381,9 +378,15 @@ Cocktail cocktail=new Cocktail();
 
 
 try{
-    blender.add(ingredients);
+    Cocktail cocktail=new Cocktail();
+blender.add(ingredients);
+cocktail=blender.blend();
     if(blender.isEmpty())
     JOptionPane.showMessageDialog(rootPane, "the blender is empty");
+
+panel.setVisible(true);
+cup250.setVisible(true);cup330.setVisible(true);
+cup500.setVisible(true);
 
 
   
@@ -442,7 +445,7 @@ Color color2=new Color(0,255,0);
     Cup cup1 = new Cup(330);
     try {
       blender.pour(cup1);
-      Color cocktailColor = cocktail.getColor();
+      Color cocktailColor = blender.getColor();
       pell.setVisible(true);
       pell1.setVisible(true);
       pell1.setText("""
@@ -466,7 +469,7 @@ Color color2=new Color(0,255,0);
     Cup cup1 = new Cup(500);
     try {
       blender.pour(cup1);
-      Color cocktailColor = cocktail.getColor();
+      Color cocktailColor = blender.getColor();
       pell.setVisible(true);
       pell1.setVisible(true);
       pell1.setText("""
@@ -490,7 +493,7 @@ Color color2=new Color(0,255,0);
     Cup cup1 = new Cup(250);
     try {
       blender.pour(cup1);
-      Color cocktailColor = cocktail.getColor();
+      Color cocktailColor = blender.getColor();
       pell.setVisible(true);
       pell1.setVisible(true);
       pell1.setText("""
