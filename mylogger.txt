@@ -203,3 +203,23 @@ Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250}
 Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
 Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
 a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Mon May 13 20:54:32 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Mon May 13 21:00:23 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=Suger, calories=120.0, color=Color{red=248, green=240, blue=235} is added
+a cup of size 250.0 is poured
