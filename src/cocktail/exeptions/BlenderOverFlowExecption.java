@@ -1,5 +1,5 @@
 
-package cocktail;
+package cocktail.exeptions;
 
 
 public class BlenderOverFlowExecption extends Exception
