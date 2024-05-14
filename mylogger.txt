@@ -223,3 +223,2170 @@ Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is a
 Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
 Ingredients{name=Suger, calories=120.0, color=Color{red=248, green=240, blue=235} is added
 a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:11:37 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:15:06 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:16:13 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:16:56 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:17:04 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:18:27 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:18:31 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:18:53 EEST 2024
+Ingredients{name=evaporated milk, calories=250.0, color=Color{red=250, green=253, blue=240} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:19:10 EEST 2024
+Ingredients{name=evaporated milk, calories=250.0, color=Color{red=250, green=253, blue=240} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:19:28 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:19:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=evaporated milk, calories=250.0, color=Color{red=250, green=253, blue=240} is added
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:20:37 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:21:45 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:21:58 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:24:02 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:24:07 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:24:30 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:24:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:24:55 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:25:02 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:25:34 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:25:46 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:25:52 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:26:01 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:28:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:28:54 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:29:19 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:29:25 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:33:49 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:05 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:06 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:06 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:06 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:06 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:47 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:53 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:54 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:37:55 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:06 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:11 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:14 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:24 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:28 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:28 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:29 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:29 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:29 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:29 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:29 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:30 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:38:30 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+a cup of size 330.0 is poured
+a cup of size 250.0 is poured
+a cup of size 500.0 is poured
+a cup of size 330.0 is poured
+a cup of size 250.0 is poured
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:30 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:33 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:34 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:34 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:39:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 330.0 is poured
+a cup of size 500.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:41:35 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:41:35 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:41:35 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:41:35 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:41:35 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:11 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:11 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:11 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:12 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:12 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:43 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:44 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:43:44 EEST 2024
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:44:58 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:44:58 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:44:58 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:44:59 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:44:59 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:05 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:05 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:05 EEST 2024
+a cup of size 330.0 is poured
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:23 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:23 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:23 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:24 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:29 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:32 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:32 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:32 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:45:32 EEST 2024
+Ingredients{name=milk, calories=200.0, color=Color{red=255, green=250, blue=250} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:04 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:09 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:14 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:14 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:25 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:25 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:32 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:47:37 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:49:00 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:49:05 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:49:06 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:49:06 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:49:06 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:49:06 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:09 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:12 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:12 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:12 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:12 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:12 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:13 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:13 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:51:13 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:53:45 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:53:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:55:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:55:52 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:55:58 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:56:01 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:56:11 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:56:23 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:56:30 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:56:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:56:59 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:57:02 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+a cup of size 500.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:57:43 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:57:47 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:40 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:45 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:45 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 13:59:47 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:19 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:23 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:24 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:24 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:25 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:25 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:26 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:26 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:03:27 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:06 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:10 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:10 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:10 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:11 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:11 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:11 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:11 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:04:12 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:07:21 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:07:25 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:08:31 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:08:38 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 330.0 is poured
+a cup of size 500.0 is poured
+a cup of size 330.0 is poured
+a cup of size 500.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:09:00 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:09:27 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:09:32 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:11:09 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:11:19 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:11:23 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:11:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:11:56 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:11 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:15 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:15 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:16 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:16 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:16 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:16 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:16 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:12:16 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:14 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:19 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:20 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:20 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:20 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:20 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:20 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:20 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:21 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:21 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:21 EEST 2024
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:13:21 EEST 2024
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:46 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:14:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:03 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:03 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:03 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:03 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:03 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:04 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:04 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:04 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:04 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 330.0 is poured
+a cup of size 500.0 is poured
+a cup of size 250.0 is poured
+a cup of size 500.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:26 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:26 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:27 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:15:27 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:32 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:35 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:36 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 330.0 is poured
+a cup of size 500.0 is poured
+a cup of size 250.0 is poured
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:50 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:16:51 EEST 2024
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+Ingredients{name=kiwi, calories=50.0, color=Color{red=0, green=255, blue=0} is added
+a cup of size 330.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:17:19 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:17:19 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:17:19 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:17:19 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:17:19 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:17:24 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Tue May 14 14:19:22 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:19:22 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:19:22 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:19:22 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Tue May 14 14:19:22 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured
+a cup of size 250.0 is poured

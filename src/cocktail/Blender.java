@@ -13,6 +13,10 @@ public  class Blender
     private Color color;
     private double capasity;
     private ArrayList<Ingredients> ingredients;
+
+    public void setIngredients(ArrayList<Ingredients> ingredients) {
+        this.ingredients = ingredients;
+    }
  
 MyLogger logger;
     public Blender() {
@@ -21,6 +25,11 @@ MyLogger logger;
 
 
     }
+
+    public void setVolume(double volume) {
+        this.volume = volume;
+    }
+    
 
     public Blender(double capasity ,MyLogger logger) {
         this.capasity = capasity;
@@ -50,6 +59,10 @@ MyLogger logger;
             
           this.calories+=ingredients.get(i).getCalories();
           this .volume+=ingredients.get(i).getVolume();
+          if(this.volume>this.capasity) 
+          {throw new BlenderOverFlowExecption();
+          
+          }
           this.ingredients.add(ingredients.get(i));
      try
        {
@@ -69,7 +82,7 @@ catch(Exception e)
           
    
 
-if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
+
   };
   public  void pour(Cup cup) throws BlenderEmptyExecption
   
@@ -107,12 +120,12 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
     }
     public Cocktail blend()
     {
-        
+        int c=0;
         for (Ingredients s:ingredients)
         {
             if(s.getColor()!=null)
             {
-               
+              c++;
                  color.setRed((int)((color.getRed()+(s.getColor().getRed()))));
                  color.setBlue((int)((color.getBlue()+(s.getColor().getBlue()))));
                  color.setGreen((int)((color.getGreen()+(s.getColor().getGreen()))));
@@ -121,14 +134,14 @@ if(this.volume>this.capasity) throw new BlenderOverFlowExecption();
             }
            
         }
-try{    color.setRed(color.getRed()/ingredients.size());
-        color.setBlue(color.getBlue()/ingredients.size());
-        color.setGreen(color.getGreen()/ingredients.size());
+try{    color.setRed(color.getRed()/c);
+        color.setBlue(color.getBlue()/c);
+        color.setGreen(color.getGreen()/c);
         Cocktail cocktail=new Cocktail(this.calories,this.ingredients,color);
          return cocktail;
 }catch(Exception e)
 {
-    JOptionPane.showMessageDialog(null,"there is no ingredients");
+    JOptionPane.showMessageDialog(null,e.getMessage());
 }
         return null;
        
