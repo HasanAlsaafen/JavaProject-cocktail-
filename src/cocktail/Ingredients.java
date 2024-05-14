@@ -1,6 +1,8 @@
 package cocktail;
 
-public abstract class Ingredients
+import java.io.Serializable;
+
+public abstract class Ingredients implements Serializable
 {
      private Color color;
      private double volume;

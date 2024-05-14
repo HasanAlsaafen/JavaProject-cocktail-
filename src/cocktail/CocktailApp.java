@@ -4,7 +4,11 @@ package cocktail;
 import java.awt.BorderLayout;
 import java.awt.Image;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
@@ -20,7 +24,7 @@ import javax.swing.*;
  *
  * @author حسن
  */
-public class CocktailApp extends javax.swing.JFrame {
+public class CocktailApp extends javax.swing.JFrame implements Serializable {
 
  
 
@@ -512,6 +516,23 @@ Color color2=new Color(0,255,0);
   }
          
     }//GEN-LAST:event_cup250ActionPerformed
+
+    private void ingrediantsAdd() throws FileNotFoundException, IOException{
+     try{
+    
+     File file =new File("ingrediantsAdd.txt");
+     
+     ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream(file));
+     
+         out.writeObject(ingredients);
+     //here
+         
+         out.close();
+     
+     }catch (IOException i) {
+         i.printStackTrace();
+      }
+}
 
     /**
      * @param args the command line arguments
