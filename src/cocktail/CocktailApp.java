@@ -71,6 +71,8 @@ Cocktail cocktail=new Cocktail();
         review2 = new javax.swing.JTextArea();
         jLabel10 = new javax.swing.JLabel();
         jLabel11 = new javax.swing.JLabel();
+        jScrollPane4 = new javax.swing.JScrollPane();
+        jTextPane1 = new javax.swing.JTextPane();
         jPanel1 = new javax.swing.JPanel();
         jButton3 = new javax.swing.JButton();
         jLabel3 = new javax.swing.JLabel();
@@ -121,6 +123,7 @@ Cocktail cocktail=new Cocktail();
         jPanel2.setLayout(null);
 
         review1.setColumns(20);
+        review1.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         review1.setRows(5);
         review1.setText("1. orange with 100 cal\n2. kiwi with 50 cal\n3. strawbarry with 30 cal\n4. banana with 120 cal\n5. milk with 200 cal\n6. evaborated milk with 250 cal\n");
         review1.setBorder(javax.swing.BorderFactory.createTitledBorder("Menu"));
@@ -128,15 +131,17 @@ Cocktail cocktail=new Cocktail();
         jScrollPane2.setViewportView(review1);
 
         jPanel2.add(jScrollPane2);
-        jScrollPane2.setBounds(40, 61, 268, 140);
+        jScrollPane2.setBounds(40, 61, 268, 170);
 
         jLabel9.setBackground(new java.awt.Color(102, 255, 255));
+        jLabel9.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         jLabel9.setText("we can make for you a cocktail with this species:");
-        jLabel9.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel9.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jPanel2.add(jLabel9);
         jLabel9.setBounds(40, 23, 265, 32);
 
         review2.setColumns(20);
+        review2.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         review2.setRows(5);
         review2.setText("1. 250 ml cup : 10 $\n2. 330 ml cup : 15 $\n3. 500 ml cup : 20 $\n");
         review2.setBorder(javax.swing.BorderFactory.createTitledBorder("Menu"));
@@ -145,19 +150,25 @@ Cocktail cocktail=new Cocktail();
         review2.getAccessibleContext().setAccessibleName("");
 
         jPanel2.add(jScrollPane3);
-        jScrollPane3.setBounds(50, 280, 268, 120);
+        jScrollPane3.setBounds(40, 370, 268, 120);
 
         jLabel10.setBackground(new java.awt.Color(102, 255, 255));
+        jLabel10.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         jLabel10.setText("                those are the cup sizes");
-        jLabel10.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jLabel10.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 1, true));
         jLabel10.setVerticalTextPosition(javax.swing.SwingConstants.BOTTOM);
         jPanel2.add(jLabel10);
-        jLabel10.setBounds(50, 240, 265, 32);
+        jLabel10.setBounds(40, 320, 265, 32);
 
         jLabel11.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Downloads\\christmas-jones-cocktail-recipe-761217-hero-01-5c7dba20c9e77c000136a7de.jpg")); // NOI18N
         jLabel11.setText("jLabel11");
         jPanel2.add(jLabel11);
         jLabel11.setBounds(-350, 0, 1080, 760);
+
+        jScrollPane4.setViewportView(jTextPane1);
+
+        jPanel2.add(jScrollPane4);
+        jScrollPane4.setBounds(510, 90, 64, 22);
 
         tab.addTab("menu", jPanel2);
 
@@ -165,6 +176,7 @@ Cocktail cocktail=new Cocktail();
         jPanel1.setForeground(new java.awt.Color(242, 242, 242));
         jPanel1.setLayout(null);
 
+        jButton3.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jButton3.setText("Add");
         jButton3.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -173,18 +185,21 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jButton3);
-        jButton3.setBounds(132, 6, 26, 20);
+        jButton3.setBounds(150, 10, 50, 22);
 
+        jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jLabel3.setText("orange");
         jLabel3.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel3);
-        jLabel3.setBounds(16, 9, 50, 20);
+        jLabel3.setBounds(16, 9, 60, 25);
 
+        jLabel4.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jLabel4.setText("banana");
         jLabel4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel4);
-        jLabel4.setBounds(16, 41, 50, 20);
+        jLabel4.setBounds(16, 41, 60, 25);
 
+        jButton5.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jButton5.setText("Add");
         jButton5.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jButton5.addActionListener(new java.awt.event.ActionListener() {
@@ -193,13 +208,15 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jButton5);
-        jButton5.setBounds(132, 41, 26, 20);
+        jButton5.setBounds(150, 40, 50, 22);
 
+        jLabel5.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jLabel5.setText("Strawbarry");
         jLabel5.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel5);
-        jLabel5.setBounds(16, 73, 70, 20);
+        jLabel5.setBounds(16, 73, 80, 25);
 
+        jButton6.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jButton6.setText("Add");
         jButton6.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jButton6.addActionListener(new java.awt.event.ActionListener() {
@@ -208,13 +225,15 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jButton6);
-        jButton6.setBounds(132, 70, 26, 20);
+        jButton6.setBounds(150, 70, 50, 22);
 
+        jLabel6.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jLabel6.setText("kiwi");
         jLabel6.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel6);
-        jLabel6.setBounds(16, 102, 30, 20);
+        jLabel6.setBounds(16, 102, 40, 25);
 
+        jButton7.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jButton7.setText("Add");
         jButton7.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jButton7.addActionListener(new java.awt.event.ActionListener() {
@@ -223,13 +242,15 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jButton7);
-        jButton7.setBounds(132, 99, 26, 20);
+        jButton7.setBounds(150, 100, 50, 22);
 
+        jLabel7.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jLabel7.setText("milk");
         jLabel7.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel7);
-        jLabel7.setBounds(16, 137, 30, 20);
+        jLabel7.setBounds(16, 137, 40, 25);
 
+        jButton8.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jButton8.setText("Add");
         jButton8.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jButton8.addActionListener(new java.awt.event.ActionListener() {
@@ -238,13 +259,15 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jButton8);
-        jButton8.setBounds(132, 137, 26, 20);
+        jButton8.setBounds(150, 130, 50, 22);
 
+        jLabel8.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jLabel8.setText("Evaborated milk");
         jLabel8.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jPanel1.add(jLabel8);
-        jLabel8.setBounds(16, 169, 110, 20);
+        jLabel8.setBounds(16, 169, 110, 25);
 
+        jButton9.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jButton9.setText("Add");
         jButton9.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jButton9.addActionListener(new java.awt.event.ActionListener() {
@@ -253,8 +276,9 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jButton9);
-        jButton9.setBounds(132, 166, 26, 20);
+        jButton9.setBounds(150, 170, 50, 22);
 
+        jButton1.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jButton1.setText("Blend");
         jButton1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -264,8 +288,9 @@ Cocktail cocktail=new Cocktail();
         });
         jButton1.setEnabled(flase);
         jPanel1.add(jButton1);
-        jButton1.setBounds(6, 201, 32, 18);
+        jButton1.setBounds(6, 201, 50, 23);
 
+        jCheckBox1.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jCheckBox1.setText("Suger");
         jCheckBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -273,7 +298,7 @@ Cocktail cocktail=new Cocktail();
             }
         });
         jPanel1.add(jCheckBox1);
-        jCheckBox1.setBounds(123, 202, 85, 20);
+        jCheckBox1.setBounds(123, 202, 85, 25);
 
         pell.setBorder(javax.swing.BorderFactory.createTitledBorder("pell"));
         pell.setVisible(false);
@@ -397,10 +422,11 @@ Cocktail cocktail=new Cocktail();
         jPanel1.add(newOrder);
         newOrder.setBounds(120, 521, 64, 22);
 
+        jLabel2.setFont(new java.awt.Font("Segoe UI", 0, 13)); // NOI18N
         jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Asus\\Downloads\\strawberry-berryoska-recipe-760977-hero-5bb7c465c9e77c0058b52193.jpg")); // NOI18N
         jLabel2.setText("jLabel2");
         jPanel1.add(jLabel2);
-        jLabel2.setBounds(-290, 0, 1030, 640);
+        jLabel2.setBounds(-280, 0, 1030, 640);
 
         tab.addTab("Home", jPanel1);
 
@@ -781,7 +807,9 @@ Cocktail cocktail=new Cocktail();
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane3;
+    private javax.swing.JScrollPane jScrollPane4;
     private javax.swing.JSeparator jSeparator1;
+    private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton newOrder;
     private javax.swing.JPanel panel;
     private javax.swing.JPanel pell;
