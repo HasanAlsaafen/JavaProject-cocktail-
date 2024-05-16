@@ -2439,3 +2439,26 @@ at Tue May 14 18:05:20 EEST 2024
 Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
 Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
 a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Wed May 15 16:52:22 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Wed May 15 16:52:27 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Wed May 15 16:52:27 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Wed May 15 16:52:27 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 330.0 is poured
