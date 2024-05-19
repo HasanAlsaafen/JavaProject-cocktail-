@@ -70,10 +70,10 @@ Cocktail cocktail=new Cocktail();
         jPanel2 = new javax.swing.JPanel();
         jScrollPane2 = new javax.swing.JScrollPane();
         review1 = new javax.swing.JTextArea();
-        jLabel9 = new javax.swing.JLabel();
         jScrollPane3 = new javax.swing.JScrollPane();
         review2 = new javax.swing.JTextArea();
-        jLabel10 = new javax.swing.JLabel();
+        jTextField1 = new javax.swing.JTextField();
+        jTextField2 = new javax.swing.JTextField();
         jPanel1 = new javax.swing.JPanel();
         jButton3 = new javax.swing.JButton();
         jLabel3 = new javax.swing.JLabel();
@@ -143,16 +143,10 @@ Cocktail cocktail=new Cocktail();
         jPanel2.add(jScrollPane2);
         jScrollPane2.setBounds(40, 110, 330, 250);
 
-        jLabel9.setBackground(new java.awt.Color(102, 255, 255));
-        jLabel9.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
-        jLabel9.setText("we can make for you a cocktail with this species:");
-        jPanel2.add(jLabel9);
-        jLabel9.setBounds(20, 70, 350, 32);
-
         review2.setColumns(20);
         review2.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         review2.setRows(5);
-        review2.setText("1. 250 ml cup : 10 $\n2. 330 ml cup : 15 $\n3. 500 ml cup : 20 $\n");
+        review2.setText("1. 250 ml cup : 10 $\n\n2. 330 ml cup : 15 $\n\n3. 500 ml cup : 20 $\n");
         review2.setBorder(javax.swing.BorderFactory.createTitledBorder("Cups"));
         jScrollPane3.setViewportView(review2);
         review2.setEditable(false);
@@ -161,12 +155,24 @@ Cocktail cocktail=new Cocktail();
         jPanel2.add(jScrollPane3);
         jScrollPane3.setBounds(380, 110, 330, 240);
 
-        jLabel10.setBackground(new java.awt.Color(102, 255, 255));
-        jLabel10.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
-        jLabel10.setText("                those are the cup sizes");
-        jLabel10.setVerticalTextPosition(javax.swing.SwingConstants.BOTTOM);
-        jPanel2.add(jLabel10);
-        jLabel10.setBounds(340, 70, 265, 32);
+        jTextField1.setBackground(new java.awt.Color(204, 204, 204));
+        jTextField1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jTextField1.setText("  We can make for you a cocktail with this species:");
+        jTextField1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField1ActionPerformed(evt);
+            }
+        });
+        jPanel2.add(jTextField1);
+        jTextField1.setBounds(40, 60, 330, 40);
+
+        jTextField2.setBackground(new java.awt.Color(204, 204, 204));
+        jTextField2.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
+        jTextField2.setText("                Those are the cup sizes:");
+        jTextField2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        jPanel2.add(jTextField2);
+        jTextField2.setBounds(380, 60, 330, 40);
 
         tab.addTab("menu", jPanel2);
 
@@ -270,9 +276,10 @@ Cocktail cocktail=new Cocktail();
         jPanel1.add(jButton9);
         jButton9.setBounds(150, 170, 50, 22);
 
+        jButton1.setBackground(new java.awt.Color(204, 204, 204));
         jButton1.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jButton1.setText("Blend");
-        jButton1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jButton1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
@@ -280,7 +287,7 @@ Cocktail cocktail=new Cocktail();
         });
         jButton1.setEnabled(flase);
         jPanel1.add(jButton1);
-        jButton1.setBounds(30, 210, 50, 23);
+        jButton1.setBounds(30, 210, 50, 27);
 
         jCheckBox1.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
         jCheckBox1.setText("Suger");
@@ -390,6 +397,7 @@ Cocktail cocktail=new Cocktail();
         jPanel1.add(panel);
         panel.setBounds(490, 10, 221, 170);
 
+        finish.setBackground(new java.awt.Color(204, 204, 204));
         finish.setText("Fisnish");
         finish.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, null, null, null, new java.awt.Color(0, 153, 153)));
         finish.setVisible(false);
@@ -401,6 +409,7 @@ Cocktail cocktail=new Cocktail();
         jPanel1.add(finish);
         finish.setBounds(290, 90, 120, 22);
 
+        newOrder.setBackground(new java.awt.Color(204, 204, 204));
         newOrder.setText("New Order");
         newOrder.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, null, null, null, new java.awt.Color(0, 153, 153)));
         newOrder.setVisible(false);
@@ -704,6 +713,10 @@ Cocktail cocktail=new Cocktail();
      JOptionPane.showMessageDialog(rootPane, "please call this number 0592935904");
     }//GEN-LAST:event_jMenuItem3ActionPerformed
 
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jTextField1ActionPerformed
+
     private void ingrediantsAdd() throws FileNotFoundException, IOException{
      try{
     
@@ -774,7 +787,6 @@ Cocktail cocktail=new Cocktail();
     private javax.swing.JCheckBox jCheckBox1;
     private javax.swing.JFormattedTextField jFormattedTextField1;
     private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel2;
@@ -784,7 +796,6 @@ Cocktail cocktail=new Cocktail();
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
-    private javax.swing.JLabel jLabel9;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenu jMenu2;
     private javax.swing.JMenuBar jMenuBar1;
@@ -798,6 +809,8 @@ Cocktail cocktail=new Cocktail();
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JScrollPane jScrollPane4;
     private javax.swing.JSeparator jSeparator1;
+    private javax.swing.JTextField jTextField1;
+    private javax.swing.JTextField jTextField2;
     private javax.swing.JTextPane jTextPane1;
     private javax.swing.JButton newOrder;
     private javax.swing.JPanel panel;
