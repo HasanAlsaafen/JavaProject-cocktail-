@@ -12,13 +12,10 @@ public  class Blender
 
     private  double calories;
     private  double volume;
-    private Color color;
+    private  Color color;
     private double capasity;
     private ArrayList<Ingredients> ingredients;
-
-
- 
-MyLogger logger;
+    private MyLogger logger;
     public Blender() {
         ingredients=new ArrayList();
         color=new Color(0,0,0);
@@ -60,15 +57,14 @@ MyLogger logger;
           this.calories+=ingredients.get(i).getCalories();
           this .volume+=ingredients.get(i).getVolume();
           if(this.volume>this.capasity) 
-          {throw new BlenderOverFlowExecption();
-          
+          { this.volume-=ingredients.get(i).getVolume();
+              throw new BlenderOverFlowExecption();
+         
           }
           this.ingredients.add(ingredients.get(i));
      try
        {
           
-       
-
            logger.log(ingredients.get(i).getInfo()+" is added\n");
        
       

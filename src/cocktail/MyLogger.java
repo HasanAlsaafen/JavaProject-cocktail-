@@ -9,13 +9,9 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.util.logging.Level;
+import javax.swing.JOptionPane;
 
-/**
- *
- * @author حسن
- */
+
 public class MyLogger implements Logger {
 
     @Override
@@ -26,11 +22,10 @@ public class MyLogger implements Logger {
 fw.write(something);
 fw.close();
 } catch (IOException e) {
-  // Handle potential IO exceptions
-  System.err.println("Error writing to file: " + e.getMessage());
+  
+JOptionPane.showMessageDialog(null,"Error writing to file: " + e.getMessage());
 }
-    
-    
+
     }
 
     public MyLogger() {
