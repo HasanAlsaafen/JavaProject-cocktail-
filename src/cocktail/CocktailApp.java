@@ -122,16 +122,20 @@ Cocktail cocktail=new Cocktail();
         setBackground(new java.awt.Color(0, 0, 0));
         setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
 
-        jLabel1.setBackground(new java.awt.Color(255, 51, 51));
+        jLabel1.setBackground(new java.awt.Color(204, 255, 51));
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         jLabel1.setText("Welcome to Mohammad & Hasan Cocktail");
 
         jSeparator1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
 
+        jPanel2.setBackground(new java.awt.Color(204, 204, 204));
+        jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("menu"));
         jPanel2.setLayout(null);
 
         jScrollPane2.setBorder(null);
 
+        review1.setEditable(false);
+        review1.setBackground(new java.awt.Color(255, 0, 0));
         review1.setColumns(20);
         review1.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         review1.setRows(5);
@@ -141,7 +145,7 @@ Cocktail cocktail=new Cocktail();
         jScrollPane2.setViewportView(review1);
 
         jPanel2.add(jScrollPane2);
-        jScrollPane2.setBounds(40, 110, 330, 250);
+        jScrollPane2.setBounds(20, 110, 330, 250);
 
         jLabel9.setBackground(new java.awt.Color(102, 255, 255));
         jLabel9.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
@@ -149,6 +153,7 @@ Cocktail cocktail=new Cocktail();
         jPanel2.add(jLabel9);
         jLabel9.setBounds(20, 70, 350, 32);
 
+        review2.setBackground(new java.awt.Color(255, 0, 51));
         review2.setColumns(20);
         review2.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         review2.setRows(5);
@@ -159,7 +164,7 @@ Cocktail cocktail=new Cocktail();
         review2.getAccessibleContext().setAccessibleName("");
 
         jPanel2.add(jScrollPane3);
-        jScrollPane3.setBounds(380, 110, 330, 240);
+        jScrollPane3.setBounds(380, 110, 330, 250);
 
         jLabel10.setBackground(new java.awt.Color(102, 255, 255));
         jLabel10.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
@@ -170,7 +175,7 @@ Cocktail cocktail=new Cocktail();
 
         tab.addTab("menu", jPanel2);
 
-        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setBackground(new java.awt.Color(153, 255, 204));
         jPanel1.setForeground(new java.awt.Color(242, 242, 242));
         jPanel1.setLayout(null);
 
@@ -186,7 +191,7 @@ Cocktail cocktail=new Cocktail();
         jButton3.setBounds(150, 10, 50, 22);
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 15)); // NOI18N
-        jLabel3.setText("orange");
+        jLabel3.setText("orange ");
         jPanel1.add(jLabel3);
         jLabel3.setBounds(16, 9, 60, 21);
 
@@ -299,10 +304,12 @@ Cocktail cocktail=new Cocktail();
         colorLabel.setText("the color is");
 
         colorArea.setVisible(false);
+        colorArea.setEditable(false);
 
         pell1.setColumns(20);
         pell1.setVisible(false);
         pell1.setRows(5);
+        pell1.setEditable(false);
         jScrollPane1.setViewportView(pell1);
 
         javax.swing.GroupLayout pellLayout = new javax.swing.GroupLayout(pell);
@@ -312,26 +319,28 @@ Cocktail cocktail=new Cocktail();
             .addGroup(pellLayout.createSequentialGroup()
                 .addGap(12, 12, 12)
                 .addComponent(colorLabel)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 65, Short.MAX_VALUE)
                 .addComponent(colorArea, javax.swing.GroupLayout.PREFERRED_SIZE, 71, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(24, 24, 24))
             .addGroup(pellLayout.createSequentialGroup()
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 210, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(0, 0, Short.MAX_VALUE))
+                .addContainerGap()
+                .addComponent(jScrollPane1)
+                .addContainerGap())
         );
         pellLayout.setVerticalGroup(
             pellLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(pellLayout.createSequentialGroup()
+                .addContainerGap()
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 199, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(15, 15, 15)
+                .addGap(9, 9, 9)
                 .addGroup(pellLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(colorLabel)
                     .addComponent(colorArea, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addGap(0, 0, Short.MAX_VALUE))
+                .addGap(0, 21, Short.MAX_VALUE))
         );
 
         jPanel1.add(pell);
-        pell.setBounds(490, 250, 220, 280);
+        pell.setBounds(490, 250, 240, 280);
 
         panel.setVisible(false);
         panel.setBorder(javax.swing.BorderFactory.createTitledBorder("choose cup size"));
@@ -589,7 +598,9 @@ Cocktail cocktail=new Cocktail();
                     newOrder.setVisible(true);
                 } catch (BlenderEmptyExecption ex) {
                     JOptionPane.showMessageDialog(rootPane, "The blender is empty. Please refill.");
+                    double v=blender.getVolume();
                     blender=new Blender(2000,logger);
+                    blender.setVolume(v);
                     panel.setVisible(flase);
                 } catch (Exception ex) { // Handle other potential exceptions
                     JOptionPane.showMessageDialog(rootPane, "An error occurred: " + ex.getMessage()+blender.getIngredients().size());

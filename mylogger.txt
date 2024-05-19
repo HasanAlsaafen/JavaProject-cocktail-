@@ -2595,3 +2595,103 @@ Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0}
 Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
 Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
 a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Sat May 18 15:13:35 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 15:13:41 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 15:13:41 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 15:13:41 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 15:13:41 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Sat May 18 15:16:30 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 15:16:31 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Sat May 18 18:55:20 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 18:55:21 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 18:55:21 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Sat May 18 18:55:28 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 18:55:29 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+Ingredients{name=strwabarry, calories=20.0, color=Color{red=255, green=80, blue=120} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added
+a cup of size 330.0 is poured
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Sat May 18 18:57:01 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 18:57:05 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 18:57:05 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+
+-----------------------------------------------------------------------
+at Sat May 18 18:57:05 EEST 2024
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+Ingredients{name=orange, calories=100.0, color=Color{red=255, green=165, blue=0} is added
+a cup of size 250.0 is poured
+
+-----------------------------------------------------------------------
+at Sun May 19 12:52:48 EEST 2024
+Ingredients{name=banana, calories=120.0, color=Color{red=252, green=255, blue=0} is added

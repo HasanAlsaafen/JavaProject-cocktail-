@@ -16,9 +16,7 @@ public  class Blender
     private double capasity;
     private ArrayList<Ingredients> ingredients;
 
-    public void setIngredients(ArrayList<Ingredients> ingredients) {
-        this.ingredients = ingredients;
-    }
+
  
 MyLogger logger;
     public Blender() {
